@@ -1,0 +1,11 @@
+/node_modules
+/node_modules_old
+/node_modules_old2
+/platforms
+/plugins
+/plugins_old
+/src
+/e2e
+/.angular
+/package-lock_old.json
+/package-lock_old2.json

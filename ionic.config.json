@@ -1,0 +1,7 @@
+{
+  "name": "taskify",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

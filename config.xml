@@ -137,4 +137,5 @@
     <splash platform="ios" src="resources/ios/splash/Default@2x~ipad~comany.png" />
     <icon src="resources/icon.png" />
     <splash src="resources/splash.png" />
+    <engine name="android" />
 </widget>
